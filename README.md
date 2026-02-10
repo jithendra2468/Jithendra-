@@ -1,5 +1,5 @@
 # Step 1: Clone Repository
-git clone https://github.com/jithendra2468/github-workshop-assessment.git
+git clone https://github.com/jithendra2468/Jithendra-
 cd github-workshop-assessment
 
 # Step 2: Create README.md file
