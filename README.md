@@ -1,8 +1,8 @@
 
 
 # Step 1: Create README.md file
-echo "Name: Your Name" > README.md
-echo "College: Your College Name" >> README.md
+echo "Name: JITHENDRA REDDY" > README.md
+echo "College: KLU UNIVERSITY" >> README.md
 echo "Workshop Date: 10-02-2026" >> README.md
 
 # Step 2: Initial Commit
